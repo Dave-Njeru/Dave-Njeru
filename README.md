@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Health Management System**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **JavaScript, PHP, MySQL**
 
