@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Health Management System**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React and Laravel**
 
 - 💬 Ask me about **JavaScript, PHP, MySQL**
 
